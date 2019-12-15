@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0724502d-7308-4b72-8353-23826ceb5292" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="282" />
+  </component>
+  <component name="ProjectId" id="1UqP3FuVvGD38lIwSBTfVz5DokT" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/dummiesmind/breadcrumb/springmvc/evo_sixty_seconds" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/dummiesmind/breadcrumb/springmvc/sixty_seconds" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="dummiesmind.breadcrumb.springmvc" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/dummiesmind/breadcrumb/springmvc/evo_sixty_seconds" />
+      <recent name="$PROJECT_DIR$/src/test/java/dummiesmind/breadcrumb/springmvc/evo_thirty_seconds" />
+      <recent name="$PROJECT_DIR$/src/test/java/dummiesmind/breadcrumb/springmvc/evo_ten_seconds" />
+      <recent name="$PROJECT_DIR$/src/test/java/dummiesmind/breadcrumb/springmvc/evo_two_seconds" />
+      <recent name="$PROJECT_DIR$/src/test/java/dummiesmind/breadcrumb/springmvc" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.BreadCrumbLink_ESTest (1)">
+    <configuration name="BreadCrumbLink_ESTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springmvc.breadcrumb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dummiesmind.breadcrumb.springmvc.evo_sixty_seconds.dummiesmind.breadcrumb.springmvc.breadcrumb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dummiesmind.breadcrumb.springmvc.evo_sixty_seconds.dummiesmind.breadcrumb.springmvc.breadcrumb" />
+      <option name="MAIN_CLASS_NAME" value="dummiesmind.breadcrumb.springmvc.evo_sixty_seconds.dummiesmind.breadcrumb.springmvc.breadcrumb.BreadCrumbLink_ESTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BreadCrumbLink_ESTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springmvc.breadcrumb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dummiesmind.breadcrumb.springmvc.evo_two_seconds.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dummiesmind.breadcrumb.springmvc.evo_two_seconds" />
+      <option name="MAIN_CLASS_NAME" value="dummiesmind.breadcrumb.springmvc.evo_two_seconds.BreadCrumbLink_ESTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BreadCrumbLink_ESTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springmvc.breadcrumb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dummiesmind.breadcrumb.springmvc.breadcrumb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dummiesmind.breadcrumb.springmvc.evo_two_seconds.dummiesmind.breadcrumb.springmvc.breadcrumb" />
+      <option name="MAIN_CLASS_NAME" value="dummiesmind.breadcrumb.springmvc.breadcrumb.BreadCrumbLink_ESTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BreadCrumbLink_ESTest_scaffolding" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springmvc.breadcrumb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dummiesmind.breadcrumb.springmvc.breadcrumb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dummiesmind.breadcrumb.springmvc.evo_two_seconds.dummiesmind.breadcrumb.springmvc.breadcrumb" />
+      <option name="MAIN_CLASS_NAME" value="dummiesmind.breadcrumb.springmvc.breadcrumb.BreadCrumbLink_ESTest_scaffolding" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegressionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springmvc.breadcrumb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dummiesmind.breadcrumb.springmvc.sixty_seconds.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="dummiesmind.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dummiesmind.breadcrumb.springmvc.sixty_seconds" />
+      <option name="MAIN_CLASS_NAME" value="dummiesmind.breadcrumb.springmvc.sixty_seconds.RegressionTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegressionTest0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springmvc.breadcrumb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dummiesmind.breadcrumb.springmvc.two_seconds.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dummiesmind.breadcrumb.springmvc.two_seconds" />
+      <option name="MAIN_CLASS_NAME" value="dummiesmind.breadcrumb.springmvc.two_seconds.RegressionTest0" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegressionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springmvc.breadcrumb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dummiesmind.breadcrumb.springmvc.thirty_seconds.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="dummiesmind.breadcrumb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dummiesmind.breadcrumb.springmvc.thirty_seconds" />
+      <option name="MAIN_CLASS_NAME" value="dummiesmind.breadcrumb.springmvc.thirty_seconds.RegressionTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegressionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springmvc.breadcrumb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dummiesmind.breadcrumb.springmvc.ten_seconds.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="dummiesmind.breadcrumb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dummiesmind.breadcrumb.springmvc.ten_seconds" />
+      <option name="MAIN_CLASS_NAME" value="dummiesmind.breadcrumb.springmvc.ten_seconds.RegressionTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegressionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springmvc.breadcrumb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dummiesmind.breadcrumb.springmvc.two_seconds.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="dummiesmind.breadcrumb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dummiesmind.breadcrumb.springmvc.two_seconds" />
+      <option name="MAIN_CLASS_NAME" value="dummiesmind.breadcrumb.springmvc.two_seconds.RegressionTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BreadCrumbLink_ESTest (1)" />
+        <item itemvalue="JUnit.BreadCrumbLink_ESTest (1)" />
+        <item itemvalue="JUnit.BreadCrumbLink_ESTest_scaffolding" />
+        <item itemvalue="JUnit.RegressionTest0" />
+        <item itemvalue="JUnit.BreadCrumbLink_ESTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0724502d-7308-4b72-8353-23826ceb5292" name="Default Changelist" comment="" />
+      <created>1576080950335</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576080950335</updated>
+      <workItem from="1576080954487" duration="3735000" />
+      <workItem from="1576194587990" duration="588000" />
+      <workItem from="1576222470503" duration="7033000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/springmvc_breadcrumb$RegressionTest__1_.ic" NAME="RegressionTest (1) Coverage Results" MODIFIED="1576085143960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>dummiesmind.breadcrumb.springmvc.two_seconds.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/springmvc_breadcrumb$BreadCrumbLink_ESTest_scaffolding.ic" NAME="BreadCrumbLink_ESTest_scaffolding Coverage Results" MODIFIED="1576226115333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>dummiesmind.breadcrumb.springmvc.evo_two_seconds.dummiesmind.breadcrumb.springmvc.breadcrumb.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/springmvc_breadcrumb$RegressionTest.ic" NAME="RegressionTest Coverage Results" MODIFIED="1576085314776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>dummiesmind.breadcrumb.springmvc.two_seconds.*</FILTER>
+      <FILTER>dummiesmind.breadcrumb.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/springmvc_breadcrumb$RegressionTest0.ic" NAME="RegressionTest0 Coverage Results" MODIFIED="1576224747114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>dummiesmind.breadcrumb.springmvc.two_seconds.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/springmvc_breadcrumb$BreadCrumbLink_ESTest__1_.ic" NAME="BreadCrumbLink_ESTest Coverage Results" MODIFIED="1576227786140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>dummiesmind.breadcrumb.springmvc.breadcrumb.*</FILTER>
+    </SUITE>
+  </component>
+</project>

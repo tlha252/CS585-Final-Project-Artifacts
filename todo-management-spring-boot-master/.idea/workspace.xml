@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd2aab16-f07e-48f6-a722-27b3f5d1a785" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="281" />
+  </component>
+  <component name="ProjectId" id="1UnyPAVzxM0UbAdpMDKUIAQRkkp" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/net/guides/springboot/todomanagementspringboot/evo_sixty_seconds" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/net/guides/springboot/todomanagementspringboot/evo_sixty_seconds" />
+      <recent name="$PROJECT_DIR$/src/test/java/net/guides/springboot/todomanagementspringboot/evon_thirty_seconds" />
+      <recent name="$PROJECT_DIR$/src/test/java/net/guides/springboot/todomanagementspringboot/evo_ten_seconds" />
+      <recent name="$PROJECT_DIR$/src/test/java/net/guides/springboot/todomanagementspringboot/evo_two_seconds" />
+      <recent name="$PROJECT_DIR$/src/test/java/net/guides/springboot/todomanagementspringboot" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TodoManagementSpringBoot2Application_ESTest and 6 more (1)">
+    <configuration name="ErrorController_ESTest and 6 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="todo-management-spring-boot" />
+      <option name="TEST_OBJECT" value="pattern" />
+      <patterns>
+        <pattern testClass="net.guides.springboot.todomanagementspringboot.evon_thirty_seconds.controller.ErrorController_ESTest" />
+        <pattern testClass="net.guides.springboot.todomanagementspringboot.evon_thirty_seconds.controller.LogoutController_ESTest" />
+        <pattern testClass="net.guides.springboot.todomanagementspringboot.evon_thirty_seconds.controller.TodoController_ESTest" />
+        <pattern testClass="net.guides.springboot.todomanagementspringboot.evon_thirty_seconds.controller.WelcomeController_ESTest" />
+        <pattern testClass="net.guides.springboot.todomanagementspringboot.evon_thirty_seconds.model.Todo_ESTest" />
+        <pattern testClass="net.guides.springboot.todomanagementspringboot.evon_thirty_seconds.service.TodoService_ESTest" />
+        <pattern testClass="net.guides.springboot.todomanagementspringboot.evon_thirty_seconds.TodoManagementSpringBoot2Application_ESTest" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegressionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="todo-management-spring-boot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.guides.springboot.todomanagementspringboot.thirty_seconds.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="net.guides.springboot.todomanagement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="net.guides.springboot.todomanagementspringboot.thirty_seconds" />
+      <option name="MAIN_CLASS_NAME" value="net.guides.springboot.todomanagementspringboot.thirty_seconds.RegressionTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegressionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="todo-management-spring-boot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.guides.springboot.todomanagementspringboot.ten_seconds.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="net.guides.springboot.todomanagement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="net.guides.springboot.todomanagementspringboot.ten_seconds" />
+      <option name="MAIN_CLASS_NAME" value="net.guides.springboot.todomanagementspringboot.ten_seconds.RegressionTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegressionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="todo-management-spring-boot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.guides.springboot.todomanagementspringboot.two_seconds.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="net.guides.springboot.todomanagement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="net.guides.springboot.todomanagementspringboot.two_seconds" />
+      <option name="MAIN_CLASS_NAME" value="net.guides.springboot.todomanagementspringboot.two_seconds.RegressionTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TodoManagementSpringBoot2Application_ESTest and 6 more (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="todo-management-spring-boot" />
+      <option name="TEST_OBJECT" value="pattern" />
+      <patterns>
+        <pattern testClass="net.guides.springboot.todomanagementspringboot.evo_sixty_seconds.TodoManagementSpringBoot2Application_ESTest" />
+        <pattern testClass="net.guides.springboot.todomanagementspringboot.evo_sixty_seconds.service.TodoService_ESTest" />
+        <pattern testClass="net.guides.springboot.todomanagementspringboot.evo_sixty_seconds.model.Todo_ESTest" />
+        <pattern testClass="net.guides.springboot.todomanagementspringboot.evo_sixty_seconds.controller.WelcomeController_ESTest" />
+        <pattern testClass="net.guides.springboot.todomanagementspringboot.evo_sixty_seconds.controller.TodoController_ESTest" />
+        <pattern testClass="net.guides.springboot.todomanagementspringboot.evo_sixty_seconds.controller.LogoutController_ESTest" />
+        <pattern testClass="net.guides.springboot.todomanagementspringboot.evo_sixty_seconds.controller.ErrorController_ESTest" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TodoManagementSpringBoot2Application_ESTest and 6 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="todo-management-spring-boot" />
+      <option name="TEST_OBJECT" value="pattern" />
+      <patterns>
+        <pattern testClass="net.guides.springboot.todomanagementspringboot.evo_two_seconds.TodoManagementSpringBoot2Application_ESTest" />
+        <pattern testClass="net.guides.springboot.todomanagementspringboot.evo_two_seconds.service.TodoService_ESTest" />
+        <pattern testClass="net.guides.springboot.todomanagementspringboot.evo_two_seconds.model.Todo_ESTest" />
+        <pattern testClass="net.guides.springboot.todomanagementspringboot.evo_two_seconds.controller.WelcomeController_ESTest" />
+        <pattern testClass="net.guides.springboot.todomanagementspringboot.evo_two_seconds.controller.TodoController_ESTest" />
+        <pattern testClass="net.guides.springboot.todomanagementspringboot.evo_two_seconds.controller.LogoutController_ESTest" />
+        <pattern testClass="net.guides.springboot.todomanagementspringboot.evo_two_seconds.controller.ErrorController_ESTest" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TodoService_ESTest and 6 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="todo-management-spring-boot" />
+      <option name="TEST_OBJECT" value="pattern" />
+      <patterns>
+        <pattern testClass="net.guides.springboot.todomanagementspringboot.evo_ten_seconds.service.TodoService_ESTest" />
+        <pattern testClass="net.guides.springboot.todomanagementspringboot.evo_ten_seconds.TodoManagementSpringBoot2Application_ESTest" />
+        <pattern testClass="net.guides.springboot.todomanagementspringboot.evo_ten_seconds.model.Todo_ESTest" />
+        <pattern testClass="net.guides.springboot.todomanagementspringboot.evo_ten_seconds.controller.WelcomeController_ESTest" />
+        <pattern testClass="net.guides.springboot.todomanagementspringboot.evo_ten_seconds.controller.TodoController_ESTest" />
+        <pattern testClass="net.guides.springboot.todomanagementspringboot.evo_ten_seconds.controller.LogoutController_ESTest" />
+        <pattern testClass="net.guides.springboot.todomanagementspringboot.evo_ten_seconds.controller.ErrorController_ESTest" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="net.guides.springboot.todomanagementspringboot.evo_two_seconds in todo-management-spring-boot" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="todo-management-spring-boot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.guides.springboot.todomanagementspringboot.evo_two_seconds.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="net.guides.springboot.todomanagement.*" />
+          <option name="ENABLED" value="false" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="net.guides.springboot.todomanagement.controller.LogoutController" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="net.guides.springboot.todomanagement.service.TodoService" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="net.guides.springboot.todomanagement.controller.ErrorController" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="net.guides.springboot.todomanagement.controller.TodoController" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="net.guides.springboot.todomanagementspringboot.evo_two_seconds" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TodoManagementSpringBoot2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="todo-management-spring-boot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="net.guides.springboot.todomanagement.TodoManagementSpringBoot2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.net.guides.springboot.todomanagementspringboot.evo_two_seconds in todo-management-spring-boot" />
+      <item itemvalue="Spring Boot.TodoManagementSpringBoot2Application" />
+      <item itemvalue="JUnit.TodoService_ESTest and 6 more" />
+      <item itemvalue="JUnit.TodoManagementSpringBoot2Application_ESTest and 6 more" />
+      <item itemvalue="JUnit.ErrorController_ESTest and 6 more" />
+      <item itemvalue="JUnit.TodoManagementSpringBoot2Application_ESTest and 6 more (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TodoManagementSpringBoot2Application_ESTest and 6 more (1)" />
+        <item itemvalue="JUnit.ErrorController_ESTest and 6 more" />
+        <item itemvalue="JUnit.TodoManagementSpringBoot2Application_ESTest and 6 more" />
+        <item itemvalue="JUnit.TodoService_ESTest and 6 more" />
+        <item itemvalue="JUnit.net.guides.springboot.todomanagementspringboot.evo_two_seconds in todo-management-spring-boot" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd2aab16-f07e-48f6-a722-27b3f5d1a785" name="Default Changelist" comment="" />
+      <created>1576006626309</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576006626309</updated>
+      <workItem from="1576006630036" duration="5982000" />
+      <workItem from="1576018080624" duration="3614000" />
+      <workItem from="1576023608882" duration="250000" />
+      <workItem from="1576033887082" duration="2209000" />
+      <workItem from="1576176352641" duration="1120000" />
+      <workItem from="1576222464044" duration="2199000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/todo_management_spring_boot$RegressionTest.ic" NAME="RegressionTest Coverage Results" MODIFIED="1576017190733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>net.guides.springboot.todomanagementspringboot.two_seconds.*</FILTER>
+      <FILTER>net.guides.springboot.todomanagement.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/todo_management_spring_boot$TodoManagementSpringBoot2Application_ESTest_and_6_more.ic" NAME="TodoManagementSpringBoot2Application_ESTest and 6 more Coverage Results" MODIFIED="1576229691800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/todo_management_spring_boot$RegressionTest__1_.ic" NAME="RegressionTest (1) Coverage Results" MODIFIED="1576017174512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>net.guides.springboot.todomanagementspringboot.two_seconds.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/todo_management_spring_boot$TodoManagementSpringBoot2Application_ESTest_and_6_more__1_.ic" NAME="TodoManagementSpringBoot2Application_ESTest and 6 more (1) Coverage Results" MODIFIED="1576229922316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/todo_management_spring_boot$Todo_ESTest.ic" NAME="Todo_ESTest Coverage Results" MODIFIED="1576228755979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>net.guides.springboot.todomanagementspringboot.model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/todo_management_spring_boot$TodoService_ESTest_and_6_more.ic" NAME="TodoService_ESTest and 6 more Coverage Results" MODIFIED="1576229413469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/todo_management_spring_boot$net_guides_springboot_todomanagementspringboot_evo_two_seconds_in_todo_management_spring_boot.ic" NAME="net.guides.springboot.todomanagementspringboot.evo_two_seconds in todo-management-spring-boot Coverage Results" MODIFIED="1576229355333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>net.guides.springboot.todomanagementspringboot.evo_two_seconds.*</FILTER>
+      <FILTER>net.guides.springboot.todomanagement.controller.LogoutController</FILTER>
+      <FILTER>net.guides.springboot.todomanagement.service.TodoService</FILTER>
+      <FILTER>net.guides.springboot.todomanagement.controller.ErrorController</FILTER>
+      <FILTER>net.guides.springboot.todomanagement.controller.TodoController</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/todo_management_spring_boot$ErrorController_ESTest_and_6_more.ic" NAME="ErrorController_ESTest and 6 more Coverage Results" MODIFIED="1576229825029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
